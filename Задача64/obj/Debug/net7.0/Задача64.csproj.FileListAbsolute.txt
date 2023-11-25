@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\bin\Debug\net7.0\Задача64.exe
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\bin\Debug\net7.0\Задача64.deps.json
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\bin\Debug\net7.0\Задача64.runtimeconfig.json
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\bin\Debug\net7.0\Задача64.dll
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\bin\Debug\net7.0\Задача64.pdb
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\Задача64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\Задача64.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\Задача64.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\Задача64.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\Задача64.dll
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\refint\Задача64.dll
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\Задача64.pdb
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\Задача64.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Csharp_Homework\Csharp_Homework\Задача64\obj\Debug\net7.0\ref\Задача64.dll
